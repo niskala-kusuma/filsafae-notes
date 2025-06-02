@@ -6,8 +6,12 @@
 ## Understanding the Tag Concept: Metaphysics
 
 Metaphysics is one of the oldest and most fundamental branches of philosophy. Its name is derived from Aristotle's works, where his writings on "first philosophy" (the basic principles of being) were placed *after* (*meta*) his writings on physics.
+/filsafae/ 
+/filsafae/ 
 ![../../../../public/filsafae/socrates-st.webp](/img/user/public/filsafae/socrates-st.webp)
 ### What Does Metaphysics Study?
+![[../../../../public/filsafae/  socrates-st.webp\|../../../../public/filsafae/  socrates-st.webp]]
+
 
 Metaphysics seeks to understand the fundamental nature of everything that exists. It is not concerned with the physical world as studied by natural sciences, but rather with the principles that underlie and transcend that physical world. Some of the central questions metaphysicians grapple with include:
 
