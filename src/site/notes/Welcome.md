@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-[[test\|test]] [[folder/test-2\|test-2]]
+[[test\|test]] [[src/test-2\|test-2]]
 This is your new *vault*.
 
 Make a note of something, [[create a link\|create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
