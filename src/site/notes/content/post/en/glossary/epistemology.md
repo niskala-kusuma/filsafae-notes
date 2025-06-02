@@ -6,7 +6,7 @@
 ## Understanding Epistemology in Depth
 
 Epistemology is one of the main pillars in the study of philosophy. The term derives from the Greek words *epistēmē* (knowledge) and *logos* (study or science of), thus literally meaning "the study of knowledge."
-
+[![socrates-st.webp](https://i.postimg.cc/HsmcV0Wd/socrates-st.webp)](https://postimg.cc/CdvL2qfQ)
 ### Core Focus of Epistemology
 
 This field critically examines our assumptions about what we know and how we know it. Some of the central questions epistemology attempts to answer include:

@@ -6,6 +6,7 @@
 ## Understanding the Ancient World of Philosophy
 
 The Ancient World of Philosophy is a transformative period spanning roughly from the 7th century BCE to the 3rd century CE. This was a time when the foundations of Western philosophical thought were laid in Greece, and profound intellectual traditions also flourished in Eastern civilizations like China and India.
+[socrates-st.webp](https://postimg.cc/CdvL2qfQ)
 
 ### The Birth of Western Philosophy
 
