@@ -6,7 +6,7 @@
 ## Plato: The Father of Western Philosophy
 
 Plato (c. 427 – 347 BCE) was an ancient Greek philosopher born in Athens during the Classical period. He founded the Academy, a philosophical school in Athens, which was the first institution of higher learning in the Western world. Along with his teacher, Socrates, and his student, Aristotle, Plato is a central figure in the history of ancient Greek philosophy and the Western philosophical tradition.
-
+<a href='https://postimg.cc/CdvL2qfQ' target='_blank'><img src='https://i.postimg.cc/CdvL2qfQ/socrates-st.webp' border='0' alt='socrates-st'/></a>
 ### Early Life and Influences
 
 Born into an aristocratic Athenian family, Plato's early life coincided with the Peloponnesian War. He was deeply influenced by Socrates, whose methods of inquiry and tragic execution profoundly shaped Plato's philosophical path. Other influences include Pythagoras, with his emphasis on mathematics and harmony; Heraclitus, for his ideas on flux; and Parmenides, for his concepts of unchanging being.
